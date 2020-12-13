@@ -1,7 +1,7 @@
 module manifestor
 import application
 
-// is e.g. an ubuntu packagedapp, it needs to be packaged by the package maintainers !
+// is e.g. an ubuntu packaged app, it needs to be packaged by the package maintainers !
 
 pub struct Command {
     cmd        	 	string
